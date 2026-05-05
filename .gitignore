@@ -1,0 +1,5 @@
+build/ 
+logs/ 
+flight_computer_dump
+config.json
+compile_commands.json 
